@@ -5,7 +5,7 @@ DOMAIN,cdn.sfcj.org,DIRECT
 DOMAIN,mwp.bydsb.cc.cd,DIRECT
 DOMAIN-SUFFIX,emby.taotu.ink,DIRECT
 DOMAIN-SUFFIX,545352.xyz,DIRECT
-DOMAIN,fd27,DIRECT
+DOMAIN,fd2,DIRECT
 DOMAIN,app.localhost.qqq,DIRECT
 DOMAIN,emby.my,DIRECT
 DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT

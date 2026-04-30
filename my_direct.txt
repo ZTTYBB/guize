@@ -10,3 +10,4 @@ DOMAIN,app.localhost.qqq,DIRECT
 DOMAIN,emby.my,DIRECT
 DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT
 DOMAIN,app-analytics-services.com,DIRECT
+DOMAIN,fd1.kingemby.xyz,DIRECT

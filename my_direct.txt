@@ -14,7 +14,7 @@ DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,fd1.kingemby.xyz,DIRECT
 DOMAIN-SUFFIX,gy.emby.yun,DIRECT
 DOMAIN-SUFFIX,,DIRECT 
-DOMAIN-SUFFIX,nginxlily.cyou,DIRECT
+DOMAIN-SUFFIX,lilyemby.cc,DIRECT #lily反代线路
 DOMAIN-SUFFIX,033388.xyz,DIRECT
 DOMAIN,pro.emby.moe,DIRECT
 DOMAIN,www.yuntv.de,DIRECT      #西瓜

@@ -21,3 +21,4 @@ DOMAIN,www.yuntv.de,DIRECT      #西瓜
 DOMAIN-SUFFIX,041219.cyou,DIRECT
 DOMAIN,xg.yuntv.de,DIRECT    #西瓜
 DOMAIN,lunarisvault.com,DIRECT #月亮
+DOMAIN,7w1bm.mobaiemby.site,DIRECT #墨云阁

@@ -1,4 +1,4 @@
 # emby原始地址规则集
-DOMAIN,www.yuntv.de,DIRECT      #西瓜
-DOMAIN,xg.yuntv.de,DIRECT    #西瓜
-DOMAIN,cf.aixj.de   #影迹
+DOMAIN,www.yuntv.de,      #西瓜
+DOMAIN,xg.yuntv.de,   #西瓜
+DOMAIN,cf.aixj.de,  #影迹

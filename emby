@@ -1,5 +1,5 @@
 # emby原始地址规则集
-DOMAIN,www.yuntv.de,#西瓜
-DOMAIN,xg.yuntv.de,#西瓜
-DOMAIN,cf.aixj.de,#影迹
-DOMAIN,https:echoflix.de,#回声
+DOMAIN-SUFFIX,www.yuntv.de,#西瓜
+DOMAIN-SUFFIX,xg.yuntv.de,#西瓜
+DOMAIN-SUFFIX,cf.aixj.de,#影迹
+DOMAIN-SUFFIX,https:echoflix.de,#回声

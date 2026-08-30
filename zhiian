@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,steamserver.net,DIRECT
 DOMAIN,cdn.sfcj.org,DIRECT
 DOMAIN,mwp.bydsb.cc.cd,DIRECT
 DOMAIN-SUFFIX,emby.taotu.ink,DIRECT  #乐蛙
-DOMAIN-SUFFIX,545352.xyz,DIRECT
-DOMAIN-SUFFIX,545352.bond,DIRECT
 DOMAIN,app.localhost.qqq,DIRECT
 DOMAIN,emby.my,DIRECT  #月饼
 DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT
@@ -13,9 +11,9 @@ DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,fd1.kingemby.xyz,DIRECT
 DOMAIN-SUFFIX,gy.emby.yun,DIRECT
 DOMAIN-SUFFIX,lilyemby.cc,DIRECT  #lily反代线路
-DOMAIN-SUFFIX,033388.xyz,DIRECT
 DOMAIN,pro.emby.moe,DIRECT
 DOMAIN-SUFFIX,041219.cyou,DIRECT
 DOMAIN,lunarisvault.com,DIRECT  #月亮
 DOMAIN,7w1bm.mobaiemby.site,DIRECT  #墨云阁
 DOMAIN-KEYWORD,yusen,予初
+DOMAIN-SUFFIX,feiyue

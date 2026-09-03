@@ -1,9 +1,6 @@
-DOMAIN,cfstream.lilyya.top
-DOMAIN,free.lilyemby.com
+#前端
+DOMAIN-SUFFIX,lilyya.top，
+#线路
+DOMAIN-SUFFIX,lilyemby.com，
 # 后端推流节点
-DOMAIN,hk1-edge.lilyemby.app,
-DOMAIN,hk2-edge.lilyemby.app,
-DOMAIN,hk3-edge.lilyemby.app,
-DOMAIN,sg-edge.lilyemby.app,
-DOMAIN,eu-edge.lilyemby.app,
-DOMAIN,us-edge.lilyemby.app,
+DOMAIN-SUFFIX,lilyemby.app,

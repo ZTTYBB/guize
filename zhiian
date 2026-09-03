@@ -1,7 +1,6 @@
 # 直连规则集
 
 DOMAIN-SUFFIX,steamserver.net,DIRECT
-DOMAIN,cdn.sfcj.org,DIRECT
 DOMAIN,mwp.bydsb.cc.cd,DIRECT
 DOMAIN-SUFFIX,emby.taotu.ink,DIRECT  #乐蛙
 DOMAIN,app.localhost.qqq,DIRECT
@@ -17,4 +16,4 @@ DOMAIN-KEYWORD,yusen,予初
 DOMAIN-SUFFIX,feiyue
 DOMAIN,cf.sfcj.org
 DOMAIN,www.yuntv.de
-DOMAIN,tv.micu.hk 
+DOMAIN,tv.micu.hk

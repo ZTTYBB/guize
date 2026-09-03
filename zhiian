@@ -10,7 +10,6 @@ DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT
 DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,fd1.kingemby.xyz,DIRECT
 DOMAIN-SUFFIX,gy.emby.yun,DIRECT
-DOMAIN-SUFFIX,lilyemby.cc,DIRECT  #lily反代线路
 DOMAIN,pro.emby.moe,DIRECT
 DOMAIN-SUFFIX,041219.cyou,DIRECT
 DOMAIN,lunarisvault.com,DIRECT  #月亮
@@ -18,4 +17,4 @@ DOMAIN-KEYWORD,yusen,予初
 DOMAIN-SUFFIX,feiyue
 DOMAIN,cf.sfcj.org
 DOMAIN,www.yuntv.de
-DOMAIN,tv.micu.hk
+DOMAIN,tv.micu.hk 

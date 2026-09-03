@@ -4,9 +4,9 @@ rules:
   # 播放/入口地址（替换为bot获取的实际入口）
   - DOMAIN,你的入口域名,你的Emby策略组
   # 后端推流节点
-  - DOMAIN,hk1-edge.lilyemby.app,你的Emby策略组
-  - DOMAIN,hk2-edge.lilyemby.app,你的Emby策略组
-  - DOMAIN,hk3-edge.lilyemby.app,你的Emby策略组
-  - DOMAIN,sg-edge.lilyemby.app,你的Emby策略组
-  - DOMAIN,eu-edge.lilyemby.app,你的Emby策略组
-  - DOMAIN,us-edge.lilyemby.app,你的Emby策略组
+DOMAIN,hk1-edge.lilyemby.app,
+DOMAIN,hk2-edge.lilyemby.app,
+DOMAIN,hk3-edge.lilyemby.app,
+DOMAIN,sg-edge.lilyemby.app,
+DOMAIN,eu-edge.lilyemby.app,
+DOMAIN,us-edge.lilyemby.app,

@@ -1,5 +1,4 @@
 # emby原始地址规则集
-DOMAIN-KEYWORD,xg.yuntv.de,  #西瓜
 DOMAIN,cf.aixj.de,  #影迹
 DOMAIN-KEYWORD,echoflix.de,  #回声
 DOMAIN-KEYWORD,liminalnet,  #棱镜
@@ -7,3 +6,4 @@ DOMAIN-KEYWORD,mobaiemby
 DOMAIN,7w1bm.mobaiemby.site
 DOMAIN,media.micu.hk
 DOMAIN,yuanshen.help
+DOMAIN,www.yuntv.de

@@ -1,6 +1,5 @@
 # emby原始地址规则集
 DOMAIN,cf.aixj.de,  #影迹
-DOMAIN-KEYWORD,echoflix.de,  #回声
 DOMAIN-KEYWORD,liminalnet,  #棱镜
 DOMAIN-KEYWORD,mobaiemby
 DOMAIN,7w1bm.mobaiemby.site

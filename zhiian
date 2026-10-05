@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,gy.emby.yun,DIRECT
 DOMAIN,pro.emby.moe,DIRECT
 DOMAIN-SUFFIX,041219.cyou,DIRECT
 DOMAIN,lunarisvault.com,DIRECT  #月亮
-DOMAIN-KEYWORD,yusen,予初
 DOMAIN-SUFFIX,feiyue
 DOMAIN,cf.sfcj.org
 DOMAIN,www.yuntv.de
@@ -22,4 +21,3 @@ DOMAIN,host.docker.internal
 DOMAIN,emby.huangmin.cc.cd
 DOMAIN,2l.585820.xyz
 DOMAIN,emby.kingemby.com
-DOMAIN-SUFFIX,yuchu

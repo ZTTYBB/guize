@@ -1,0 +1,28 @@
+#!name=03_Apple证书屏蔽验证
+#!desc=精准屏蔽 Apple p12证书验证，让已过期证书能够继续使用
+#!author=Salem
+#!homepage=https://github.com/salem-2007/apple-cert-block
+#!icon=https://cdn.jsdelivr.net/gh/salem-2007/apple-cert-block@main/icon.png
+#!update-url=https://raw.githubusercontent.com/salem-2007/apple-cert-block/main/AntiRevoke.plugin
+
+[Rule]
+DOMAIN,ocsp.apple.com,REJECT
+DOMAIN,ocsp2.apple.com,REJECT
+DOMAIN,valid.apple.com,REJECT
+DOMAIN,ppq.apple.com,REJECT
+DOMAIN,ppq-ext.v.aaplimg.com,REJECT
+DOMAIN,crl.apple.com,REJECT
+DOMAIN,certs.apple.com,REJECT
+DOMAIN,ocsp.digicert.com,REJECT
+DOMAIN,ocsp.digicert.cn,REJECT
+DOMAIN,crl3.digicert.com,REJECT
+DOMAIN,crl4.digicert.com,REJECT
+DOMAIN,ocsp.entrust.net,REJECT
+DOMAIN,crl.entrust.net,REJECT
+DOMAIN,ocsp.sectigo.com,REJECT
+DOMAIN,crl.sectigo.com,REJECT
+DOMAIN,ocsp.usertrust.com,REJECT
+DOMAIN,crl.usertrust.com,REJECT
+
+[MITM]
+hostname = %APPEND% ocsp.apple.com, ocsp2.apple.com, valid.apple.com

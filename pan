@@ -2,6 +2,7 @@
 # 用途：Emby 等服务的视频流常走网盘或对象存储/CDN，
 # 若未直连会落到 FINAL 兜底 -> 走代理 -> 变慢且消耗代理流量。
 # 数据来源：magicrule ChinaMobile/ChinaTelecom/ChinaUnicom/CTYun/115/AliyunDrive/ChengTongWangPan/TencentCloud/HuaweiCloud/UCloud 交叉汇总
+#           + 实测流量统计里「国内 IP 却走代理」的域名补漏
 
 # ========== 移动（和彩云 / 139 / 咪咕 / 移动云）==========
 DOMAIN-SUFFIX,139.com,DIRECT
@@ -105,7 +106,6 @@ DOMAIN-SUFFIX,aliyundrive.net,DIRECT
 DOMAIN-SUFFIX,aliyundrive.cloud,DIRECT
 DOMAIN-SUFFIX,alipan.com,DIRECT
 DOMAIN-SUFFIX,alicloudccp.com,DIRECT
-DOMAIN-SUFFIX,alipan.aliyun.com,DIRECT
 
 # ========== 城通网盘 ==========
 DOMAIN-SUFFIX,ctfile.com,DIRECT
@@ -150,6 +150,8 @@ DOMAIN-SUFFIX,qcloudimg.com,DIRECT
 DOMAIN-SUFFIX,tcdnlive.com,DIRECT
 DOMAIN-SUFFIX,tcdnvod.com,DIRECT
 DOMAIN-SUFFIX,tcdnos.com,DIRECT
+DOMAIN-SUFFIX,ydycdn.cn,DIRECT
+DOMAIN-SUFFIX,hbttl.cn,DIRECT
 
 # ========== 阿里云 OSS / CDN ==========
 DOMAIN-SUFFIX,aliyuncs.com,DIRECT
@@ -164,11 +166,6 @@ DOMAIN-SUFFIX,myhuaweicloud-obs.cn,DIRECT
 DOMAIN-SUFFIX,myhuaweicloud-obs.com,DIRECT
 DOMAIN-SUFFIX,hwcdn.cn,DIRECT
 DOMAIN-SUFFIX,hwcdn.com,DIRECT
-DOMAIN-SUFFIX,cdnhwc1.com,DIRECT
-DOMAIN-SUFFIX,cdnhwc2.com,DIRECT
-DOMAIN-SUFFIX,cdnhwc3.com,DIRECT
-DOMAIN-SUFFIX,cdnhwc4.com,DIRECT
-DOMAIN-SUFFIX,cdnhwc5.com,DIRECT
 DOMAIN-SUFFIX,huaweicloud.com,DIRECT
 DOMAIN-SUFFIX,huaweicloud.cn,DIRECT
 
@@ -191,3 +188,7 @@ DOMAIN-SUFFIX,upyun.com,DIRECT
 DOMAIN-SUFFIX,qingstor.com,DIRECT
 DOMAIN-SUFFIX,qingstorage.com,DIRECT
 DOMAIN-SUFFIX,qingcloud.com,DIRECT
+
+# ========== Apple 中国 ==========
+DOMAIN-SUFFIX,icloud.com.cn,DIRECT
+DOMAIN-SUFFIX,icloud-content.com.cn,DIRECT
